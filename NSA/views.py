@@ -37,8 +37,8 @@ def register(request):
 
                 # set your email and password
                 # please use App Password
-                email_address = "instaofficial0001@gmail.com"
-                email_password = "qdeyqckpghfwxdrb"
+                email_address = "your mail"
+                email_password = "your password"
                 email_receiver = register.email
                 # create email
                 msg = EmailMessage()
